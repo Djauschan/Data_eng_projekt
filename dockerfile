@@ -1,5 +1,5 @@
 #Python Laufzeitumgebung
-FROM python:3.11.8-bookworm
+FROM python:3.11.8-slim-buster
 
 WORKDIR /app
 
